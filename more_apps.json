@@ -1,0 +1,48 @@
+{
+  "status": true,
+  "message": "Apps loaded successfully",
+  "apps": [
+    {
+      "app_name": "AI Math Solver – Scan & Solve",
+      "package_name": "com.aistudy.math.scan.problemsolver",
+      "app_cover_url": "https://raw.githubusercontent.com/username/repository/main/covers/ai_math_solver_cover.png",
+      "app_icon_url": "https://raw.githubusercontent.com/username/repository/main/icons/ai_math_solver_icon.png"
+    },
+    {
+      "app_name": "Learn English Speaking in Urdu",
+      "package_name": "com.learn.englishinurdu.translatordictionary",
+      "app_cover_url": "https://raw.githubusercontent.com/username/repository/main/covers/learn_english_speaking_urdu_cover.png",
+      "app_icon_url": "https://raw.githubusercontent.com/username/repository/main/icons/learn_english_speaking_urdu_icon.png"
+    },
+    {
+      "app_name": "Speech to Text Converter",
+      "package_name": "com.speechtotext.converter.app",
+      "app_cover_url": "https://raw.githubusercontent.com/username/repository/main/covers/speech_to_text_converter_cover.png",
+      "app_icon_url": "https://raw.githubusercontent.com/username/repository/main/icons/speech_to_text_converter_icon.png"
+    },
+    {
+      "app_name": "Write SMS by Voice",
+      "package_name": "com.voicesms.message.voicetyping.keyboard",
+      "app_cover_url": "https://raw.githubusercontent.com/username/repository/main/covers/write_sms_by_voice_cover.png",
+      "app_icon_url": "https://raw.githubusercontent.com/username/repository/main/icons/write_sms_by_voice_icon.png"
+    },
+    {
+      "app_name": "Numbers to Words Converter",
+      "package_name": "com.numberstowords.converter",
+      "app_cover_url": "https://raw.githubusercontent.com/username/repository/main/covers/numbers_to_words_converter_cover.png",
+      "app_icon_url": "https://raw.githubusercontent.com/username/repository/main/icons/numbers_to_words_converter_icon.png"
+    },
+    {
+      "app_name": "Easy Voice Typing Keyboard",
+      "package_name": "com.all.languages.voicetyping.keyboard",
+      "app_cover_url": "https://raw.githubusercontent.com/username/repository/main/covers/easy_voice_typing_keyboard_cover.png",
+      "app_icon_url": "https://raw.githubusercontent.com/username/repository/main/icons/easy_voice_typing_keyboard_icon.png"
+    },
+    {
+      "app_name": "AI Voice Keyboard & Writer",
+      "package_name": "com.aivoice.keyboard.voicetyping",
+      "app_cover_url": "https://raw.githubusercontent.com/username/repository/main/covers/ai_voice_keyboard_writer_cover.png",
+      "app_icon_url": "https://raw.githubusercontent.com/username/repository/main/icons/ai_voice_keyboard_writer_icon.png"
+    }
+  ]
+}
